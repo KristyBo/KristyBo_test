@@ -4,12 +4,9 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал Artsiom Rusau QA Life на [YouTube](https://youtube.com/@rusau) с аудиторией более 160.000 человек. За время преподавательской деятельности занимался обучением более 160000 студентов на разных платформах.
+Я тестировщик в начале своего пути)
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://artsiomrusau.com/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-violet?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristinabo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:kristinaboval@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
