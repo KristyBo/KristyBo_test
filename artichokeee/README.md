@@ -9,19 +9,6 @@
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-violet?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristinabo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:kristinaboval@gmail.com)
 
 ---
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kristinabo//" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/KristyBo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
----
-
-
 ### 📁 Тестовая документация:
 
 <div>
@@ -77,3 +64,13 @@
 </div>
 
 ---
+
+<!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| Junior QA                                                       | 09/2023 - 12/2023 |
+
+--- -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KristyBo)
