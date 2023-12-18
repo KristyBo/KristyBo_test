@@ -12,27 +12,15 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/kristinabo//" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/KristyBo" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-
 ---
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Bash для тестировщика &lpar;QA Engineer&rpar;. Полный курс](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
-- [Разбор резюме тестировщиков с хедхантера](https://www.youtube.com/watch?v=FnK379DsOsk)
-- [КАК ПРОЙТИ ИСПЫТАТЕЛЬНЫЙ СРОК?](https://www.youtube.com/watch?v=Gz3F48tc8nk)
-- [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
-- [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
-<!-- YOUTUBE:END -->
-
----
 
 ### 📁 Тестовая документация:
 
